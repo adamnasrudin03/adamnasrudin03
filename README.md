@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=ada" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&username=ada" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=adamnasrudin03" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&username=adamnasrudin03" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -61,14 +61,14 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ada/ada/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/adamnasrudin03/adamnasrudin03/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ada/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/adamnasrudin03/count.svg?"  />
 </div>
 
 ###
