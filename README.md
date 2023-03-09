@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/adamnasrudin03/adamnasrudin03/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/adamnasrudin03/adamnasrudin03/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
 
 ###
 
