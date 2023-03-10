@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">Hi, my name is Adam who has expertise in software development using GoLang, for a long-term career I have an interest in backend developers. <br>I am a Muslim trying to improve myself to avoid usury. So I am not interested in the banking industry, credit, leasing, and the like. But I am still tolerant of the industry using the sharia concept.</p>
+<p align="left">Hi, my name is Adam who has expertise in software development using GoLang, for a long-term career I have an interest in backend developers. <br>I am a Muslim trying to improve myself to avoid usury. <b>So I am not interested in the banking industry, credit, leasing, and the like. But I am still tolerant of the industry using the sharia concept.</b></p>
 
 ###
 
