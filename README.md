@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">Hi, you can call me Adam. I have expertise and experience spanning over 3 years in software development using the Go programming language (Golang). Strong knowledge of programming concepts and the ability to work independently. I am reliable and dependable. individual who is passionate about programming. I have the will to learn new things, have quite good discipline, and am continuously seeking to improve and enhance my skills. 
+<p align="left">Hi, you can call me Adam. I have expertise and experience spanning over &#177;3 years in software development using the Go programming language (Golang). Strong knowledge of programming concepts and the ability to work independently. I am reliable and dependable. individual who is passionate about programming. I have the will to learn new things, have quite good discipline, and am continuously seeking to improve and enhance my skills. 
 <br>I am a Muslim trying to improve myself to avoid usury. <b>So I am not interested in the banking industry, credit, assurance, leasing, and the like. But I am still tolerant of the industry using the shariah concept.</b></p>
 
 ###
