@@ -41,15 +41,14 @@
 ###
 
 <br clear="both">
-
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/adam-nasrudin/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.adamnasrudin.com/blog" target="_blank">
     <img 
-        src="https://img.shields.io/static/v1?message=My%20Blog&logo=blogger&label=&color=89CFF0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="blog"  />
+        src="https://img.shields.io/static/v1?message=My%20Blog&logo=blogger&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="blog"  />
   </a>
 </div>
 
